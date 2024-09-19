@@ -1,10 +1,10 @@
-# Portfólio Pessoal - Versão 1.0
+# Portfólio Pessoal 
 
 Bem-vindo ao meu portfólio pessoal! Este projeto foi criado com o objetivo de apresentar minhas habilidades, projetos e um pouco sobre mim. É um site simples e intuitivo, desenvolvido utilizando HTML, CSS e JavaScript.
 
 ## 🔍 Sobre o Projeto
 
-Esta é a versão 1.0 do meu portfólio pessoal, onde organizei as informações de forma clara e direta, permitindo uma navegação fácil para os visitantes. A estrutura do site foi criada com HTML, os estilos com CSS, e a interatividade com JavaScript.
+Esta é a versão 1.0 de um portfólio pessoal para uma cliente, onde organizei as informações de forma clara e direta, permitindo uma navegação fácil para os visitantes. A estrutura do site foi criada com HTML, os estilos com CSS, e a interatividade com JavaScript.
 
 ## 🛠️ Tecnologias Utilizadas
 
