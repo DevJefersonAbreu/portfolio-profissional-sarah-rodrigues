@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { element: document.getElementById("text1"), text: "Olá, visitante!", delay: 1000 },
         { element: document.getElementById("text2"), text: "Meu nome é Sarah", delay: 3000 },
         { element: document.getElementById("text3"), text: "</", delay: 4000 },
-        { element: document.getElementById("text4"), text: "Sales Development Representative (SDR)", delay: 5000 },
+        { element: document.getElementById("text4"), text: "customer success", delay: 5000 },
         { element: document.getElementById("text5"), text: ">", delay: 6000 }
     ];
 

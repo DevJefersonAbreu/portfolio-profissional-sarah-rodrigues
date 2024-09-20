@@ -1,27 +1,20 @@
-# Portfólio Pessoal 
+# Portfólio Pessoal - Sarah Rodrigues
+Bem-vindo ao portfólio pessoal de Sarah Rodrigues. Este projeto foi desenvolvido para apresentar suas habilidades, experiências profissionais e um pouco mais sobre sua trajetória. É um site simples e intuitivo, criado com HTML, CSS e JavaScript, com o objetivo de proporcionar uma navegação agradável e informativa para os visitantes.
 
-Bem-vindo ao meu portfólio pessoal! Este projeto foi criado com o objetivo de apresentar minhas habilidades, projetos e um pouco sobre mim. É um site simples e intuitivo, desenvolvido utilizando HTML, CSS e JavaScript.
+# 🔍 Sobre o Projeto
+Esta é a versão 1.0 do portfólio pessoal de Sarah Rodrigues, onde todas as informações foram organizadas de forma clara e objetiva. A estrutura do site foi desenvolvida com HTML, os estilos com CSS, e a interatividade com JavaScript, garantindo uma experiência completa e dinâmica.
 
-## 🔍 Sobre o Projeto
-
-Esta é a versão 1.0 de um portfólio pessoal para uma cliente, onde organizei as informações de forma clara e direta, permitindo uma navegação fácil para os visitantes. A estrutura do site foi criada com HTML, os estilos com CSS, e a interatividade com JavaScript.
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML**: Para a estruturação das páginas.
-- **CSS**: Para estilização e layout responsivo.
-- **JavaScript**: Para adicionar interatividade e dinamismo.
-
-## 📑 Seções do Site
-
+# 🛠️ Tecnologias Utilizadas
+HTML: Estruturação e marcação das páginas.
+CSS: Estilização, design responsivo e layout.
+JavaScript: Funcionalidades interativas e dinâmicas.
+📑 Seções do Site
 O portfólio é dividido nas seguintes seções:
 
-1. **Home**: Introdução e boas-vindas ao visitante.
-2. **Sobre**: Um breve resumo sobre mim, minha trajetória e meus interesses.
-3. **Projetos**: Exposição de alguns dos projetos que desenvolvi, com links para visualização e código fonte.
-4. **Contato**: Formas de entrar em contato comigo, incluindo e-mail e links para redes sociais.
+# Home: Introdução e mensagem de boas-vindas.
+Sobre: Um resumo sobre a trajetória e as habilidades de Sarah.
+Experiências: Detalhamento das experiências profissionais, com destaque para as conquistas e habilidades desenvolvidas.
+Contato: Informações de contato e links para as redes sociais.
 
-## 🚀 Objetivo
-
-O objetivo deste portfólio é compartilhar meus conhecimentos em desenvolvimento web e minha paixão por programação, além de servir como um ponto de partida para quem deseja conhecer meu trabalho e me contatar.
-
+# 🚀 Objetivo
+O objetivo deste portfólio é proporcionar uma visão abrangente das capacidades e experiências de Sarah Rodrigues no campo de atendimento ao cliente e vendas. O site também serve como uma forma de conectar potenciais parceiros, empregadores e clientes interessados em conhecer mais sobre seu trabalho e se engajar em novas oportunidades.
