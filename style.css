@@ -373,7 +373,7 @@ body.dark #text4{
 
 .icon-inicio a button:hover {
     background-color: #d1cece;
-    color: #317933;
+    color: #008080;
     transform: scale(1.1);
   }
 
@@ -493,7 +493,7 @@ body.dark .text-sobre p{
 
 .text-sobre a button:hover {
     background-color: #d1cece;
-    color: #317933;
+    color: #008080;
     transform: scale(1.1);
   }
 body.dark .text-sobre a button{
